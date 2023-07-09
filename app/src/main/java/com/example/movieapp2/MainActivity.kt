@@ -154,7 +154,7 @@ class MainActivity : ComponentActivity() {
                         item {
                             midInfoComponents(
                                 circleContent = {
-                                    Text(text = "s")
+                                    Text(text = "G")
                                 },
                                 type = "Like",
                             content = {
