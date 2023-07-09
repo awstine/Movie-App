@@ -12,5 +12,9 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
+<<<<<<< HEAD
 rootProject.name = "MovieApp(2)"
+=======
+rootProject.name = "movieSite"
+>>>>>>> a3518f74c916b0795f362ed606875758658af41b
 include ':app'

@@ -4,11 +4,19 @@ plugins {
 }
 
 android {
+<<<<<<< HEAD
     namespace 'com.example.movieapp2'
     compileSdk 33
 
     defaultConfig {
         applicationId "com.example.movieapp2"
+=======
+    namespace 'com.example.moviesite'
+    compileSdk 33
+
+    defaultConfig {
+        applicationId "com.example.moviesite"
+>>>>>>> a3518f74c916b0795f362ed606875758658af41b
         minSdk 24
         targetSdk 33
         versionCode 1

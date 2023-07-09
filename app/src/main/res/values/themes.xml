@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+<<<<<<< HEAD
     <style name="Theme.MovieApp2" parent="android:Theme.Material.Light.NoActionBar" />
+=======
+    <style name="Theme.MovieSite" parent="android:Theme.Material.Light.NoActionBar" />
+>>>>>>> a3518f74c916b0795f362ed606875758658af41b
 </resources>
